@@ -1,0 +1,10 @@
+{
+  "prefix": "DESK",
+  "flags": {
+    "DESK_FIXTURE": "1",
+    "DESK_HOUR": "10",
+    "DESK_MINUTE": "8",
+    "DESK_SECOND": "30",
+    "DESK_BATTERY": "82"
+  }
+}

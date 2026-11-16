@@ -1,0 +1,25 @@
+{
+  "name": "Desk Clock",
+  "repo": "desk-clock-watch",
+  "version": "0.1.1",
+  "url": "https://apps.repebble.com/d8d7cbfc9a3f4aaea111e4ca",
+  "pbw_exact": true,
+  "native_round_pixels_exact": true,
+  "matched_round_urls": [
+    "https://assets.repebble.com/screenshots/d8d7cbfc9a3f4aaea111e4ca/chalk/0dda3074-e94e-48ee-a353-cc0123b65f57.png",
+    "https://assets.repebble.com/screenshots/d8d7cbfc9a3f4aaea111e4ca/chalk/0be4929a-3cde-468f-a75f-c13935ca60c0.png",
+    "https://assets.repebble.com/screenshots/d8d7cbfc9a3f4aaea111e4ca/gabbro/7d0591aa-a0d6-40d2-8932-c2265ffcb5e9.png",
+    "https://assets.repebble.com/screenshots/d8d7cbfc9a3f4aaea111e4ca/gabbro/894b616a-3774-44a7-8bec-d2cd42d98156.png"
+  ],
+  "existing_gallery_preserved": true,
+  "animated_preview_first": true,
+  "screenshots": [
+    "https://assets.repebble.com/screenshots/d8d7cbfc9a3f4aaea111e4ca/emery/38ff91b3-eccf-44e1-b990-cefa766ab79d.gif",
+    "https://assets.repebble.com/screenshots/d8d7cbfc9a3f4aaea111e4ca/emery/eb770c5e-c30d-460a-b47b-53306c045138.png",
+    "https://assets.repebble.com/screenshots/d8d7cbfc9a3f4aaea111e4ca/emery/43309301-59e7-487b-8b73-6dddae1d96bf.png",
+    "https://assets.repebble.com/screenshots/d8d7cbfc9a3f4aaea111e4ca/emery/0d6da2f7-4b24-4831-a9dc-ce0303078b75.png",
+    "https://assets.repebble.com/screenshots/d8d7cbfc9a3f4aaea111e4ca/emery/004d8608-428a-4376-abc7-0973bd647e93.png",
+    "https://assets.repebble.com/screenshots/d8d7cbfc9a3f4aaea111e4ca/chalk/0dda3074-e94e-48ee-a353-cc0123b65f57.png",
+    "https://assets.repebble.com/screenshots/d8d7cbfc9a3f4aaea111e4ca/gabbro/7d0591aa-a0d6-40d2-8932-c2265ffcb5e9.png"
+  ]
+}

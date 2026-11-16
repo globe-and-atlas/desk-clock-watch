@@ -1,0 +1,27 @@
+{
+  "repo": "desk-clock-watch",
+  "name": "Desk Clock",
+  "version": "0.1.1",
+  "uuid": "cc0ac542-a200-41b9-9dc4-d030579a5a4d",
+  "artifact": "/Users/danielbally/Git/desk-clock-watch/dist/Desk-Clock-0.1.1.pbw",
+  "sha256": "f70fd2b6a21d04921a78102702523e6388c639cd878f72fcab102f78931cd4a8",
+  "platform_binary_sha256": {
+    "emery": "1355ae31c3e362f4682b34710f3aefd2aa00d2627f6e14a505f7551bb7b6975e",
+    "chalk": "e9bbc4f41b0f8a7817e6edf64cb03b0648017afb4e3bd9dca7c9b60fd9851ea2",
+    "gabbro": "993cde5dc2cdbde3a096e50a0825816410228e54056072a63ad0ebbd8b356c3d"
+  },
+  "app_id": "d8d7cbfc9a3f4aaea111e4ca",
+  "screenshots": [
+    "/Users/danielbally/Git/desk-clock-watch/media/store/round-update/chalk_01_round.png",
+    "/Users/danielbally/Git/desk-clock-watch/media/store/round-update/chalk_02_round.png",
+    "/Users/danielbally/Git/desk-clock-watch/media/store/round-update/gabbro_01_round.png",
+    "/Users/danielbally/Git/desk-clock-watch/media/store/round-update/gabbro_02_round.png"
+  ],
+  "screenshot_sha256": {
+    "chalk_01_round.png": "7f38088f082a7988cf6ba7a8d2638b0c2e095985545cc469d7e1cb414d210f3d",
+    "chalk_02_round.png": "1147109d91d3d1c074e6da2b80ac04f9f291300c0de007116b4e2e4b9ed165d0",
+    "gabbro_01_round.png": "34b99a5b6de0a3b40c92d8a084ea89d232e9a052c07ddc84aabbc2692a9b6c8d",
+    "gabbro_02_round.png": "7fb3c7035b138a4d36d7a7ddecbee16052a2a1fe4b703caa43b894dbcf9b8e9a"
+  },
+  "release_notes": "Native layouts for original Time Round (180x180) and Round 2 (260x260). Preserves the Time 2 design and existing settings."
+}

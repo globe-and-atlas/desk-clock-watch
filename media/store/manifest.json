@@ -1,0 +1,39 @@
+{
+  "name": "Desk Clock",
+  "screenshots": [
+    "emery_01_palettes.gif",
+    "emery_02_palette.png",
+    "emery_03_palette.png",
+    "emery_04_palette.png",
+    "emery_05_palette.png"
+  ],
+  "frame_sources": [
+    "desk-default.png",
+    "desk-palette-1.png",
+    "desk-palette-2.png",
+    "desk-palette-3.png",
+    "desk-palette-4.png",
+    "desk-palette-5.png"
+  ],
+  "palette_names": [
+    "Cream & red",
+    "Mint",
+    "Ice blue",
+    "Night cyan",
+    "Coffee",
+    "Black & white"
+  ],
+  "durations_ms": [
+    3000,
+    2500,
+    2500,
+    2500,
+    2500,
+    2500
+  ],
+  "size": [
+    200,
+    228
+  ],
+  "gif_sha256": "159012160bdceaee025dedad03d08579b86fbdc73d57dd78e8f831c1f950d79a"
+}

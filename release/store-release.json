@@ -1,0 +1,35 @@
+{
+  "name": "Desk Clock",
+  "repo": "desk-clock-watch",
+  "app_id": "d8d7cbfc9a3f4aaea111e4ca",
+  "version": "0.1.1",
+  "uuid": "cc0ac542-a200-41b9-9dc4-d030579a5a4d",
+  "url": "https://apps.repebble.com/d8d7cbfc9a3f4aaea111e4ca",
+  "pbw_sha256": "f70fd2b6a21d04921a78102702523e6388c639cd878f72fcab102f78931cd4a8",
+  "public_verified": true,
+  "screenshot_results": {
+    "uploaded": [
+      {
+        "platform": "chalk",
+        "filename": "chalk_01_round.png",
+        "url": "/api/assets/screenshots/d8d7cbfc9a3f4aaea111e4ca/chalk/0dda3074-e94e-48ee-a353-cc0123b65f57.png"
+      },
+      {
+        "platform": "chalk",
+        "filename": "chalk_02_round.png",
+        "url": "/api/assets/screenshots/d8d7cbfc9a3f4aaea111e4ca/chalk/0be4929a-3cde-468f-a75f-c13935ca60c0.png"
+      },
+      {
+        "platform": "gabbro",
+        "filename": "gabbro_01_round.png",
+        "url": "/api/assets/screenshots/d8d7cbfc9a3f4aaea111e4ca/gabbro/7d0591aa-a0d6-40d2-8932-c2265ffcb5e9.png"
+      },
+      {
+        "platform": "gabbro",
+        "filename": "gabbro_02_round.png",
+        "url": "/api/assets/screenshots/d8d7cbfc9a3f4aaea111e4ca/gabbro/894b616a-3774-44a7-8bec-d2cd42d98156.png"
+      }
+    ],
+    "failed": []
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "name": "Desk Clock",
+  "slug": "Desk-Clock",
+  "prefix": "DESK_",
+  "frames": [
+    "desk-default.png",
+    "desk-palette-1.png",
+    "desk-palette-2.png",
+    "desk-palette-3.png",
+    "desk-palette-4.png",
+    "desk-palette-5.png"
+  ],
+  "labels": [
+    "Cream & red",
+    "Mint",
+    "Ice blue",
+    "Night cyan",
+    "Coffee",
+    "Black & white"
+  ],
+  "stills": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "icon_crop": [
+    14,
+    42,
+    186,
+    144
+  ],
+  "description": "A little bedside-clock warmth for your wrist.\n\nDesk Clock pairs large rounded numerals with an inset display, a simple date, and a centered battery indicator.\n\nMake it yours:\n- Six palettes: Cream & red, Mint, Ice blue, Night cyan, Coffee, and Black & white.\n- Custom background, label, and display colors.\n- Watch default, 12-hour, or 24-hour time, with AM/PM in 12-hour mode.\n- Optional date: weekday/month/day, YYYY-MM-DD, MM/DD/YYYY, or DD/MM/YYYY.\n- Live battery icon and percentage.\n\nThe animated preview cycles through the six palettes. Select a palette in settings; the watchface keeps your chosen colors.\n\nFor Pebble Time 2."
+}

@@ -1,0 +1,40 @@
+{
+  "name": "desk-clock-watch",
+  "version": "0.1.1",
+  "private": true,
+  "author": "Daniel Bally",
+  "keywords": [
+    "pebble-app"
+  ],
+  "pebble": {
+    "displayName": "Desk Clock",
+    "uuid": "cc0ac542-a200-41b9-9dc4-d030579a5a4d",
+    "sdkVersion": "3",
+    "enableMultiJS": true,
+    "targetPlatforms": [
+      "emery",
+      "chalk",
+      "gabbro"
+    ],
+    "watchapp": {
+      "watchface": true
+    },
+    "capabilities": [
+      "configurable"
+    ],
+    "messageKeys": [
+      "Palette",
+      "Background",
+      "Foreground",
+      "Accent",
+      "TimeFormat",
+      "DateFormat"
+    ],
+    "resources": {
+      "media": []
+    }
+  },
+  "dependencies": {
+    "@rebble/clay": "1.1.0"
+  }
+}
